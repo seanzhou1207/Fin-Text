@@ -1,6 +1,4 @@
-# Stat-222-Project
-
-Textual Analysis of Financial Statements
+# Textual Analysis of Financial Statements
 
 Zhengxing Cheng, Owen Lin, Isaac Liu, Sean Zhou
 
@@ -10,17 +8,9 @@ A variety of small datasets can be found in this repository. The main dataset we
 
 ## Resources
 
-### Project Updates
+### Final Report
 
-Slides [here](https://docs.google.com/presentation/d/1JJEnThJ8J-kww_SiqMceNVPTG_3i5U472d_8RIgSb-o/edit#slide=id.p).
-
-### March 5 Presentation
-
-Slides [here](https://docs.google.com/presentation/d/1g28qdef5ddqo8jX7AW_3p60fzBnzMxD4_EPGpjcrWkU/edit#slide=id.p).
-
-### Final Presentation
-
-Slides [here](https://docs.google.com/presentation/d/1_AsMCNPxlaVB9atzXuxOjec1JGyA50DL5t6Grjlt5L8/edit#slide=id.p).
+[here](./fin_text.pdf).
 
 ### Repo Filepaths
 
